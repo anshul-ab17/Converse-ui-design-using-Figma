@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Converse-ui-design-using-Figma/static/css/main.821d3e90.css",
+    "main.js": "/Converse-ui-design-using-Figma/static/js/main.146793e9.js",
+    "index.html": "/Converse-ui-design-using-Figma/index.html",
+    "main.821d3e90.css.map": "/Converse-ui-design-using-Figma/static/css/main.821d3e90.css.map",
+    "main.146793e9.js.map": "/Converse-ui-design-using-Figma/static/js/main.146793e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.821d3e90.css",
+    "static/js/main.146793e9.js"
+  ]
+}
